@@ -9,8 +9,8 @@
    ```
    nodemon index.js
    ```
-5.Run the command below on client side to start the React app:
-```
-npm start
-```
-And you are good to go! Have fun chatting.
+   5.Run the command below on client side to start the React app:
+   ```
+   npm start
+   ```
+   And you are good to go! Have fun chatting.
