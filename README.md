@@ -12,7 +12,7 @@
    ```
    nodemon index.js
    ```
- 6.Run the command below on client side to start the React app:
+   6.Run the command below on client side to start the React app:
    
    ```
    npm start
