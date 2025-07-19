@@ -1,4 +1,4 @@
-# Vortex-Chat-App
+# Vortext-Chat-App
 1. Clone the Repository on your local device.
 2. Open terminal and enter client folder and install all the dependencies.
    
