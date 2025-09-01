@@ -9,6 +9,7 @@
 4. Make sure to create your own .env file in the root directory and mention the following:
    
    i. PORT address(eg : 3000).
+   
    ii. MONGO_URL to connect to your database.
 6. Run the command below on server side to start the backend:
    
